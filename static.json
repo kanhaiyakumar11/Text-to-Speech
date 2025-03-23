@@ -1,0 +1,11 @@
+{
+    "headers": {
+      "/**": {
+        "Cache-Control": "no-store"
+      },
+      "/assets/**": {
+        "Content-Type": "text/css"
+      }
+    }
+  }
+  
